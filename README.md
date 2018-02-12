@@ -1,6 +1,6 @@
 # cassandra4slurm
 
-Note: This scripts are also available for LSF scheduler based clusters under petition (eloy.gil[at]bsc[dot]es)
+Note: These scripts are also available for LSF scheduler based clusters under petition (eloy.gil[at]bsc[dot]es)
 
 ### Usage: 
 . ./launcher.sh [ **-h** | **RUN** [ **-s** ] [ **N** ] | **RECOVER** [ **-s** ] | **STATUS** | **KILL** ]
